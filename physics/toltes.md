@@ -32,5 +32,5 @@ $$ W_{AB} = Q \cdot U_{AB} $$
 
 $$ W_{AB} = Q \cdot E \cdot d $$
 
-$$ U_{AB} = U_A - U_B $$
+$U_{AB} = U_A - U_B$
 
