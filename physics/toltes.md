@@ -14,7 +14,7 @@
 
 <img src="https://render.githubusercontent.com/render/math?math=\vec F = \vec E \cdot Q">
 
-<img src="https://render.githubusercontent.com/render/math?math=\vec E_A = \frac{ \vec F }{ q }">
+<img src="https://render.githubusercontent.com/render/math?math=\vec E = \frac{ \vec F }{ q }">
 
 <img src="https://render.githubusercontent.com/render/math?math=E_A = k \cdot \frac{Q}{r^2}">
 
