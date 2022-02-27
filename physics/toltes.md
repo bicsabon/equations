@@ -12,7 +12,7 @@
 
 <img src="https://render.githubusercontent.com/render/math?math=\frac {N}{C} \bigg(\frac {Newton}{Coulomb} \bigg)">
 
-<img src="https://render.githubusercontent.com/render/math?math=\vec F = \vec E \cdot Q">
+<img src="https://render.githubusercontent.com/render/math?math=\vec F = \vec E_A \cdot Q">
 
 <img src="https://render.githubusercontent.com/render/math?math=\vec E = \frac{ \vec F }{ q }">
 
