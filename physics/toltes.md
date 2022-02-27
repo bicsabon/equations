@@ -22,6 +22,8 @@
 
 <img src="https://render.githubusercontent.com/render/math?math=U_{AB} = \frac{W_{AB}}{Q}">
 
+<img src="https://render.githubusercontent.com/render/math?math=W_{AB}">
+
 <img src="https://render.githubusercontent.com/render/math?math=\frac{J}{C}">
 
 <img src="https://render.githubusercontent.com/render/math?math=E = \frac{U_{AB}}{d}">
