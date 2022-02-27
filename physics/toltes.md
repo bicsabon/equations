@@ -36,3 +36,5 @@
 
 <img src="https://render.githubusercontent.com/render/math?math=U_{AB} = U_A - U_B">
 
+<img src="https://render.githubusercontent.com/render/math?math=U_A">
+
